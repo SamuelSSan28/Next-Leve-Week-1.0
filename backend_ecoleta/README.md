@@ -6,11 +6,11 @@
 	:construction: NextLevelWeek 1.0 🚀 In progress.. :construction:
 </h4>
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/DanielObara/NLW-1.0?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/SamuelSSan28/Next-Leve-Week-1.0?color=%2304D361">
 
 
   <a href="https://github.com/DanielObara/NLW-1.0/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/DanielObara/NLW-1.0">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/SamuelSSan28/Next-Leve-Week-1.0">
   </a>
 
 </p>
