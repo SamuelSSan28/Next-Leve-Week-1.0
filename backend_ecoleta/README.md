@@ -48,7 +48,7 @@ This project was developed with the following technologies:
 - [Expo][expo]
 
 
-Made with ♥ by [Samuel Santos](https://www.linkedin.com/in/danielobara/)
+Made with ♥ by [Samuel Santos](https://www.linkedin.com/in/)
 
 [nodejs]: https://nodejs.org/
 [typescript]: https://www.typescriptlang.org/
